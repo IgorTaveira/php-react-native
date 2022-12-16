@@ -1,0 +1,10 @@
+{
+  "name": "reg",
+  "displayName": "reg",
+  "icon": "./assets/img/icon.png",
+  "splash":{
+    "image": "./assets/img/splash.png"
+  }
+
+
+}
